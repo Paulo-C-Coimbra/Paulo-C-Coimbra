@@ -21,7 +21,6 @@
 
 - **Game theory & Knightian uncertainty** — Nash equilibrium under multiple priors (Dow–Werlang framework), public-goods provision under ambiguity, and the limits of single-prior rationality.
 - **Computational & behavioral finance** — options and term-structure pricing, and the behavior of Brazilian retail traders.
-- **Quantitative & experimental systems** — *Silicon Sampling*: LLMs as synthetic subjects in classic economic experiments.
 
 ### Selected repositories
 
