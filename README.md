@@ -28,8 +28,6 @@
 | Repository | What it is |
 |---|---|
 | [`NashUncertainty`](https://github.com/Paulo-C-Coimbra/NashUncertainty) | Nash equilibrium under Knightian uncertainty (Dow–Werlang). Python GUI, six preset games, 19-test replication suite. Target: *SoftwareX* / *JOSS*. |
-| [`vcm-knightian`](https://github.com/Paulo-C-Coimbra/vcm-knightian) | Public-goods provision under NEO-additive capacities. 19 tests, six figures. Target: *PET 2026* (FGV) / *JPET*. |
-| `GenAI-Econ-Lab` | *Silicon Sampling* working-paper series (WP-000 → WP-015): prisoner's dilemma, ultimatum, trust game, auctions, prospect theory. |
 | `inflation-tax-br` | Brazil's historical inflation-tax series under central-bank autonomy — Cysne (1993) and Cysne & Coimbra-Lisboa (2004) methodology, Bai–Perron breaks, SVAR. |
 | `crypto-macro-correlations` | Multi-asset correlations (BTC, ETH, indices, gold, DXY, WTI, 10Y) across macro regimes — GARCH, PCA, Granger, cointegration. |
 
