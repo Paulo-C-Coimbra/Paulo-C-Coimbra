@@ -5,7 +5,6 @@
 > cat focus.txt
   game theory under Knightian uncertainty
   computational & behavioral finance
-  generative AI as a method in economics
 
 > ls ./principles
   replication-first/   every-result-tied-to-a-public-repo/
