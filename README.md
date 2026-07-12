@@ -1,3 +1,5 @@
+<img width="2560" height="1280" alt="github-banner-pesquisa-Paulo-C-Coimbra" src="https://github.com/user-attachments/assets/331203b2-3548-4a4b-a521-56cdf08619bd" />
+
 ```text
 > whoami
   Paulo C. Coimbra — economist · quantitative researcher
